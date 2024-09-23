@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Michael, and I'm currently studying Data Science in Denmark, focusing on building a strong programming skillset in C#.
+My name is Michael, and I'm currently studying Data Science in Denmark.
 
 - 🌱 I’m currently learning about Database Systems and IT Security.
 - 😄 I’m interested in Machine Learning, IT Security, and engaging projects that challenge me.
