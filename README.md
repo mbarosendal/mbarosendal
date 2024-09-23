@@ -3,7 +3,7 @@
 My name is Michael, and I'm currently studying Data Science in Denmark, focusing on building a strong programming skillset in C#.
 
 - 🌱 I’m currently learning about Database Systems and IT Security.
-- 😄 I’m interested in Machine Learning, IT Security, and engaging projects that challenge me.
+- 😄 I’m interested in Machine Learning, IT Security, and any engaging projects that help me grow as a programmer.
 - ⚡ I’m currently working on a hypothetical case to optimize ambulance dispatch and task management across Denmark for Region Syd (school case).
   
 <!--
