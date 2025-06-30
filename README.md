@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-My name is Michael, and I'm currently studying Data Science in Denmark, focusing on building a strong programming skillset in C#.
+My name is Michael. I'm currently studying Data Science in Denmark, focusing on building a strong programming skillset in C#.
 
-    💡 Interested in backend development, API design, and getting systems to communicate efficiently.
-    🛠️ Working on smaller pet projects like a folder organizer and a cheap ticket finder.
-    📚 Upcoming specialization in Automation & Scripting and Backend/API Development.
-    🎓 Expected to graduate in summer 2026.
-
+- 💡 Interested in backend development, automation, and getting systems to communicate efficiently.
+- 🛠️ Working on smaller pet projects like a file organizer and a cheap train ticket finder.
+- 📚 Upcoming specialization in Automation & Scripting and Backend/API Development.
+- 🎓 Expected to graduate in summer 2026.
+  
 <!--
 **mbarosendal/mbarosendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
