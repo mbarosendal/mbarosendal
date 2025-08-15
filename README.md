@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Michael. I'm currently studying Data Science in Denmark, focusing on building a strong programming skillset in C#.
+My name is Michael. I'm currently studying Data Science in Denmark, focusing on building a strong programming foundation in C# and the .NET framework.
 
-- 💡 Interested in backend development, automation, and getting systems to communicate efficiently.
-- 🛠️ Working on smaller pet projects like a file organizer and a cheap train ticket finder.
+- 💡 Interested in full-stack, automation, and getting systems to communicate efficiently.
+- 🛠️ Working on smaller pet projects like a file organizer, a pomodoro timer and task manager.
 - 📚 Upcoming specialization in Automation & Scripting and Backend/API Development.
 - 🎓 Expected to graduate in summer 2026.
   
