@@ -4,7 +4,7 @@ My name is Michael. I'm currently studying Data Science in Denmark, focusing on 
 
 - 💡 Interested in full-stack, automation, and getting systems to communicate efficiently
 - 🛠️ Working on smaller pet projects like a file organizer, a pomodoro timer and task manager
-- 📚 Upcoming specialization in Automation & Scripting and Backend/API Development
+- 📚 Upcoming specialization in Automation & Scripting and Backend/API Design
 - 🎓 Graduating summer 2026
   
 <!--
