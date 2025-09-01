@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Michael. I'm currently studying Data Science in Denmark, focusing on building a strong programming foundation in C# and the .NET framework.
+My name is Michael. I'm currently studying data science in Denmark, focusing on building a strong programming foundation in C# and the .NET framework.
 
 - 📚 Specializing in Automation, Scripting (Py, PoSh), Backend Development and API Design
 - 💡 Interested in full-stack, automation, and getting systems to communicate efficiently
