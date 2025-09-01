@@ -7,7 +7,8 @@ My name is Michael. I'm currently studying Data Science in Denmark, focusing on 
 - 📚 Specializing in Automation, Scripting, Backend Development and API Design
 - 🎓 Graduating summer 2026
 
-I'm keeping a portfolio where I write about my learning this semester (august-december, 2025) [here](https://mbarosendal.github.io/Portfolio/).
+I'm keeping a portfolio where I post about my learning this semester (august-december, 2025) [here](https://mbarosendal.github.io/Portfolio/).
+I'm also doing super simple experiments for some of my posts to support my learning, these can be found [here](https://github.com/mbarosendal/?tab=repositories&q=topic%3Aexperiments).
   
 <!--
 **mbarosendal/mbarosendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
