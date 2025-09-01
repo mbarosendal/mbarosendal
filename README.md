@@ -3,9 +3,11 @@
 My name is Michael. I'm currently studying Data Science in Denmark, focusing on building a strong programming foundation in C# and the .NET framework.
 
 - 💡 Interested in full-stack, automation, and getting systems to communicate efficiently
-- 🛠️ Working on smaller pet projects like a file organizer, a pomodoro timer and task manager
-- 📚 Upcoming specialization in Automation & Scripting and Backend/API Design
+- 🛠️ Working on smaller pet projects like a wallpaper shuffler, a pomodoro timer and task manager
+- 📚 Specializing in Automation, Scripting, Backend Development and API Design
 - 🎓 Graduating summer 2026
+
+I'm keeping a portfolio for my learning this semester (august-december, 2025) [here]((https://mbarosendal.github.io/Portfolio/)).
   
 <!--
 **mbarosendal/mbarosendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
