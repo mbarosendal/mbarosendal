@@ -3,8 +3,8 @@
 My name is Michael. I'm currently studying data science in Denmark, focusing on building a strong programming foundation in C# and the .NET framework.
 
 - 📚 Specializing in Automation, Scripting (Py, PoSh), Backend Development and API Design
-- 💡 Interested in full-stack, automation, and getting systems to communicate efficiently
-- 🛠️ Working on smaller pet projects like a wallpaper shuffler, pomodoro timer and task manager
+- 💡 Interested in full-stack, focused on backend, automation, and getting systems to communicate efficiently
+- 🛠️ Working on pet projects like a LMS, file manager, wallpaper shuffler, and pomodoro timer
 - 🎓 Graduating summer 2026
 
 I'm keeping a portfolio where I post about my learning this semester (august-december, 2025) [here](https://mbarosendal.github.io/Portfolio/).
