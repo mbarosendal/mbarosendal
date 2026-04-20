@@ -6,7 +6,7 @@ My name is Michael. I'm currently studying data science, focusing on building on
 - 💡 Interested in full-stack, focused on backend, automation, and getting systems to communicate efficiently
 - 🛠️ Working on pet projects like a LMS, file manager, wallpaper shuffler, and pomodoro timer
 - 🎓 Graduating summer 2026
--   
+  
 <!--
 **mbarosendal/mbarosendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
