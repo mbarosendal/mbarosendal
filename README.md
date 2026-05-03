@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
+I'm Michael, a Computer Science AP student with a strong interest in backend development, automation, APIs, and AI-integrated systems.
+
+Currently working on
+🤖 My graduating project - AI + MCP integrations with REST APIs for connecting AI to real company data
+🐍 Building Python backends around MCP servers, REST APIs, automation workflows, and AI-integrated tooling
+🐶 Pet projects like smart home integration, floating sticky notes, and domain-scoped browser reminders
+☕ Getting the damn thing to work™
+
+Background
+💼 Recently finished an internship in an enterprise IT automation & business intelligence department
+🇯🇵 Coming from a background in language and communication, which unexpectedly turned out to be useful in tech
+🛠️ Comfortable with C#, .NET, Python, REST and GraphQL APIs, SQL, and PowerShell
+🔥 Especially interested in backend systems, automation workflows, API and AI tooling
+🎓 Graduating summer 2026
+
+
+<!--
 My name is Michael. I'm currently studying data science, focusing on building on my foundation in C# and the .NET framework.
 
 - 📚 Specializing in Automation, Scripting (Py, PoSh), Backend Development and API Design
