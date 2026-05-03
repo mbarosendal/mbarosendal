@@ -3,8 +3,7 @@
 I'm Michael, a Computer Science AP student with a strong interest in backend, automation, APIs, and AI-integrated systems.
 
 **Currently working on**
-- 🤖 My graduating project - AI + MCP integrations with REST APIs for connecting AI to real company data
-- 🐍 Building Python backends around MCP servers, REST APIs, automation workflows, and AI-integrated tooling
+- 🐍 Learning Python by connecting AI to real company data through MCP and REST API integrations (my graduating project)
 - 🐶 Pet projects like smart home integration, floating sticky notes, and domain-scoped browser reminders
 - ☕ Getting the damn thing to work™
 
