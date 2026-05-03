@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-I'm Michael, a Computer Science AP student with a strong interest in backend development, automation, APIs, and AI-integrated systems.
+I'm Michael, a Computer Science AP student with a strong interest in backend, automation, APIs, and AI-integrated systems.
 
 Currently working on
 - 🤖 My graduating project - AI + MCP integrations with REST APIs for connecting AI to real company data
