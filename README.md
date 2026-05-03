@@ -9,7 +9,7 @@ I'm Michael, a Computer Science AP student with a strong interest in backend, au
 - ☕ Getting the damn thing to work™
 
 **Background**
-- 🇯🇵 Coming from a background in language and communication, which unexpectedly turned out to be useful in tech
+- 🇯🇵 Coming from a background in linguistics and communication, which unexpectedly turned out to be useful in tech
 - 💼 Recently finished an internship in an enterprise IT automation & business intelligence department
 - 🛠️ Comfortable with C#, .NET, Python, REST and GraphQL APIs, SQL, and PowerShell
 - 🔥 Especially interested in backend systems, automation workflows, API and AI tooling
